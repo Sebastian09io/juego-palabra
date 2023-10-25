@@ -1,0 +1,16 @@
+
+
+<resources>
+    <string name="app_name">Decifra la palabra</string>
+    <string name="instructions">Dicifra la palabra con las letras.</string>
+    <string name="skip">Saltar</string>
+    <string name="submit">Enviar</string>
+    <string name="score">Puntaje: %d</string>
+    <string name="word_count">%d de %d palabras</string>
+    <string name="enter_your_word">Ingresa la palabra</string>
+    <string name="congratulations">Felicidades!</string>
+    <string name="you_scored">"Tu puntaje: %d"</string>
+    <string name="exit">Cerrar</string>
+    <string name="play_again">Juega de nuevo</string>
+    <string name="try_again">Intentalo de nuevo</string>
+</resources>
